@@ -1,0 +1,38 @@
+_repo: Uncle-Wiggily-s-Airship-b-Bedtime-Stories_70295
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wisa, Louis
+    gutenberg_agent_id: '8138'
+    url: http://www.gutenberg.org/2009/agents/8138
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70295'
+language: en
+pgterms:marc905: 20190702153321garis
+pgterms:marc906: '1918'
+pgterms:marc907: us
+production_note: Bob Taylor, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bA. L. Burt Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Uncle Wiggily''s Airship : $b Bedtime Stories'
+url: http://www.gutenberg.org/ebooks/70295
